@@ -50,8 +50,8 @@ You can choose one of the following ways to create Azure resource:
 
 3. Support multiple spring-boot version. For example: Use different branch (`spring-boot_2.5` and `spring-boot_2.6`) to support different spring-boot versions.
 
-4. The template repository can a release, after the template repository released a new version, all samples should update to latest release version. Manually, ofcourse.
+4. The template repository can do release, after the template repository released a new version, all samples should update to latest release version. Manually, ofcourse.
 
-5. Use [GitHub Template Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) to manage this reposiroty, so we can use the exter features about template reposiroty.
+5. Use [GitHub Template Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) to manage this reposiroty, so we can use the extra features about template reposiroty.
 
 6. etc.. TO BE DONE
